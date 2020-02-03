@@ -39,6 +39,7 @@ Python has a wide variety of applications such as:
 - Web Development
     - Django
     - Flask
+    - Tornado
 - Scripting
     - Dev Ops
     Configuration scripts
